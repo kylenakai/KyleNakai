@@ -6,3 +6,4 @@ My name is Kyle Nakai,
 - 📫 How to reach me: ktnakai@ucsd.edu or kylenak1616@gmail.com
 - 😄 Pronouns: he/him 
 -->
+- Coursework Repositories are set to private to maintain academic integrity
